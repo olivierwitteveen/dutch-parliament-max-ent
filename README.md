@@ -1,1 +1,1 @@
-# maximum_entropy_eurovision
+# maximum_entropy
